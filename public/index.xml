@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Yan Zhou</title>
+    <link>https://yan-zhou-website.netlify.app/</link>
+    <description>Recent content in About on Yan Zhou</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>© Athul</copyright>
+    <lastBuildDate>Sun, 18 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://yan-zhou-website.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://yan-zhou-website.netlify.app/archives/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yan-zhou-website.netlify.app/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://yan-zhou-website.netlify.app/about/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yan-zhou-website.netlify.app/about/</guid>
+      <description>&lt;p&gt;Hi there! I am currently a PhD student in the Sociology Department and a trainee in the PSTC at Brown University. I am broadly interested in the areas of Inequality, Work and Organization, Demography, Social Policy, and Applied Statistics. I am passionate about using quantitative data to examine and answer questions pertinent to my research interests. I hope that my work can contribute to fostering a society that is not only more equal and equitable but also more inclusive and diverse. I hold a Bachelor&amp;rsquo;s degree with first-class honours in Social Sciences with Quantitative Methods from University College London and a Master&amp;rsquo;s degree in Social Statistics from London School of Economics and Political Science. Prior to joining Brown Sociology, I completed my pre-doctoral fellowship with Prof. Emma Zang at Yale University.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Courses</title>
+      <link>https://yan-zhou-website.netlify.app/courses/</link>
+      <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://yan-zhou-website.netlify.app/courses/</guid>
+      <description>&lt;p&gt;At UCL, I attended the following methods courses:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;POLS0007 Principles of Social Science Research&lt;/li&gt;&#xA;&lt;li&gt;POLS0008 Introduction to Quantitative Methods&lt;/li&gt;&#xA;&lt;li&gt;POLS0010 Data Analysis&lt;/li&gt;&#xA;&lt;li&gt;POLS0012 Causal Analysis in Data Science&lt;/li&gt;&#xA;&lt;li&gt;POLS0013 Measurements in Data Science&lt;/li&gt;&#xA;&lt;li&gt;MATH0045 Calculus and Linear Algebra&lt;/li&gt;&#xA;&lt;li&gt;MATH0046 Calculus in Several Dimensions&lt;/li&gt;&#xA;&lt;li&gt;MATH0047 Advanced Linear Algebra&lt;/li&gt;&#xA;&lt;li&gt;MATH0051 Real Analysis&lt;/li&gt;&#xA;&lt;li&gt;SOCS0040 Population Studies&lt;/li&gt;&#xA;&lt;li&gt;SOCS0081 Social Networks&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;At LSE, I attended the following methods courses:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ST425 Statistical Inference&lt;/li&gt;&#xA;&lt;li&gt;ST416 Multilevel Modelling&lt;/li&gt;&#xA;&lt;li&gt;ST442 Longitudinal Data Analysis&lt;/li&gt;&#xA;&lt;li&gt;ST454 Applied Spatio-Temporal Analysis&lt;/li&gt;&#xA;&lt;li&gt;ST443 Machine Learning and Data Mining&lt;/li&gt;&#xA;&lt;li&gt;ST411 GLM and Survival Analysis&lt;/li&gt;&#xA;&lt;li&gt;ST444 Computational Data Science&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;At Yale, I attended the following methods courses:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
