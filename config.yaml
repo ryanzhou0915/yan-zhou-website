@@ -8,7 +8,7 @@ pygmentscodefences: yes
 pygmentscodefencesguesssyntax: yes
 enableEmoji: true
 params:
-  mode: toggle
+  mode: dark
   social:
     - icon: github
       name: GitHub
